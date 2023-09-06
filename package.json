@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "langguesser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliia-reshetnikova/langGuesser.git"
+  },
+  "keywords": [
+    "node",
+    "franc",
+    "language"
+  ],
+  "author": "Nataliia Reshetnikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliia-reshetnikova/langGuesser/issues"
+  },
+  "homepage": "https://github.com/nataliia-reshetnikova/langGuesser#readme",
+  "dependencies": {
+    "franc": "^6.1.0"
+  }
+}
