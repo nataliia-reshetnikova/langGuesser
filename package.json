@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/nataliia-reshetnikova/langGuesser#readme",
   "dependencies": {
-    "franc": "^6.1.0"
+    "colors": "^1.4.0",
+    "franc": "^6.1.0",
+    "iso-639-3": "^3.0.1"
   }
 }
